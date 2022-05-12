@@ -12,7 +12,7 @@ Install the dependencies
 $ npm install
 ```
 
-### Serve
+### To run the application
 To run electron
 
 ```sh
